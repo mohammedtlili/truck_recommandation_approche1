@@ -12,7 +12,7 @@ le service client, et plusieurs autres axes d'intérêt axés sur l’améliorat
 l'entreprise.
 Étant donné les priorités de l'organisme d'accueil et la durée de stage, l’objectif essentiel de ce
 sujet de mastère a été axé sur la mise en place de deux solutions intelligentes parmi celles
-proposées://
+proposées:
 • un module de recommandation du moyen de transport adéquat qui vise à minimiser le
 cout d’expédition à la fois pour le client et le transporteur. En effet, un client qui
 désire transporter une marchandise ne peut pas nécessairement sélectionner le meilleur
@@ -20,7 +20,7 @@ véhicule pour son besoin. Ceci peut engendrer plusieurs problèmes : un cout é
 l’espace vide gaspillé ou pire un moyen de transport ne permettant pas de transporter
 la marchandise. Ainsi, le module à proposer vise à prédire le moyen de transport
 adéquat pour chaque commande du client et consiste alors à une aide à la décision
-pour le client dans sa procédure de lancement d’une commande.//
+pour le client dans sa procédure de lancement d’une commande.
 • un module de tarification qui vise à estimer les tarifs des courses et proposer ce prix au
 client et fournisseur.
 Pour le premier module, Mohamed a commencé par la collecte des données. Cette étape
@@ -29,7 +29,7 @@ plusieurs types d’objets à transporter, pour former les bases de données né
 l’entraînement des modèles de deep learning. Il a ensuite préparé, annoté et augmenté ces
 
 données en exploitant différentes approches et techniques de traitement et d’augmentation des
-données.//
+données.%
 Une fois la base de données préparée, deux méthodes ont été proposées pour résoudre le
 problème de recommandation du moyen de transport adéquat://
 • la première méthode consistait à formuler le problème comme un problème de
